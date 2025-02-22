@@ -20,7 +20,7 @@ Reddit discussions often accumulate hundreds of comments, but many lack relevanc
 ![HuggingFace](https://img.shields.io/badge/Transformers-4.30-yellow?logo=huggingface)  
 ![NLTK](https://img.shields.io/badge/NLTK-3.8-green)  
 
-**ML Models**  
+**ML Models (LLMs)**  
 ![BERT](https://img.shields.io/badge/BERT-uncased-ff69b4)  
 ![MiniLM](https://img.shields.io/badge/MiniLM-L6-violet)  
 ![LDA](https://img.shields.io/badge/LDA-Gensim-red)
@@ -44,6 +44,4 @@ Reddit discussions often accumulate hundreds of comments, but many lack relevanc
 - Example output for post *"Best iPhone 15 Pro Max color?"*:  
 - **Cluster 2 (Score: 1.0)**: High-quality responses like *"I got white – fingerprints barely visible"*  
 - **Cluster 0 (Score: 0.0)**: Irrelevant/spam comments  
-
-## 📂 Repository Structure  
 

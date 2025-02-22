@@ -1,7 +1,5 @@
 # Reddit Comment Relevance Analysis: Rating Comments on a Scale of 1–5  
 
----
-
 ## 📌 Overview  
 **Problem**  
 Reddit discussions often accumulate hundreds of comments, but many lack relevance to the original post. This project automatically rates comments on a **1–5 relevance scale** to address information overload and improve content moderation.  
@@ -10,8 +8,6 @@ Reddit discussions often accumulate hundreds of comments, but many lack relevanc
 - Helps users focus on meaningful discussions  
 - Streamlines moderation efforts  
 - Enhances community engagement by surfacing high-quality content  
-
----
 
 ## 🛠️ Tools  
 **Languages & Frameworks**  
@@ -29,8 +25,6 @@ Reddit discussions often accumulate hundreds of comments, but many lack relevanc
 ![MiniLM](https://img.shields.io/badge/MiniLM-L6-violet)  
 ![LDA](https://img.shields.io/badge/LDA-Gensim-red)
 
----
-
 ## 🔍 Approach  
 1. **Data Collection**  
    - Used Reddit API to gather 10 posts with moderate comment engagement (limited by API restrictions).  
@@ -43,7 +37,6 @@ Reddit discussions often accumulate hundreds of comments, but many lack relevanc
    - KMeans clustering into 5 groups (1–5 relevance scale)  
 5. **Relevance Scoring**  
    - Custom metric
----
 
 ## 📊 Results  
 **Key Achievements**:  
